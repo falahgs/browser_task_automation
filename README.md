@@ -2,6 +2,8 @@
 
 A powerful web automation application that combines Google's Gemini AI with browser automation capabilities to perform intelligent web tasks through natural language instructions.
 
+![Browser Task Automation Demo](1.png)
+
 ## Features ✨
 
 - 🧠 Natural Language Task Processing
@@ -29,7 +31,7 @@ playwright>=1.40.0
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/falahgs/browser-task-automation.git
+   git clone https://github.com/falahgs/browser_task_automation.git
    cd browser-task-automation
    ```
 
